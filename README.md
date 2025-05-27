@@ -3,7 +3,7 @@
 </div>
 
 
-# 🙋 2024.1  - Módulo 05: Serviços em cloud computing - Turma 13 - CPS - Centro Paula Souza
+# 🙋 2025.1  - Módulo 05: Serviços em cloud computing - Turma 13 - CPS - Centro Paula Souza
 
 
 ## 🎯 O objetivo:
