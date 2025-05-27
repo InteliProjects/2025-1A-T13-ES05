@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://images.seeklogo.com/logo-png/43/2/centro-paula-souza-logo-png_seeklogo-439596.png"  width="200">
+    <img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/03/logo-cps.jpg"  width="200">
 </div>
 
 
@@ -26,6 +26,6 @@ Desenvolver uma aplicação para gerenciamento dos atendimentos prestados pela A
 - Grupo 5 - 
   - Link do repositório: https://github.com/InteliProjects/2025-1A-T13-ES05-G05
 
-  - Grupo 6 - 
+- Grupo 6 - 
   - Link do repositório: https://github.com/InteliProjects/2025-1A-T13-ES05-G06
 
