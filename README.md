@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://seeklogo.com/images/C/centro-paula-souza-logo-BE7AD72CD0-seeklogo.com.png"  width="200">
+    <img src="https://images.seeklogo.com/logo-png/43/2/centro-paula-souza-logo-png_seeklogo-439596.png"  width="200">
 </div>
 
 
-# 🙋 2025.1  - Módulo 05: Serviços em cloud computing - Turma 13 - CPS - Centro Paula Souza
+# 🙋 2024.1  - Módulo 05: Serviços em cloud computing - Turma 13 - CPS - Centro Paula Souza
 
 
 ## 🎯 O objetivo:
